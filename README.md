@@ -1,5 +1,9 @@
 # hackathon-toolkit
 
+This repo is intended to give a list of beginner friendly tools for people to feel comfortable at their first mini-hackathon (the ones we host in freeCodeCampIndy) or any other hackathon.
+
+*Please feel free to make a PR or raise an issue to make this better. :)*
+
 ## Mockups/Flow Charts
 
 You will probably want to draw rough wireframes/mockups before you begin writing any code. Here are some free tools you can use:
