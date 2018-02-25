@@ -9,18 +9,20 @@ You will probably want to draw rough wireframes/mockups before you begin writing
 
 ## Photo Tools
 
-*some online photo editor here*
+* [Google Photos](https://photos.google.com/) - you can do basic edits like cropping, rotating, and adding filters
 
 ## Code Sharing
 
-* https://codeshare.io
-* Dropbox
+Figuring out how to share and edit code together is usually the hardest part of any hackathon. Don't get hung up here. You can use Git if you know it, but if you don't there are many other options, including just sending files back and forth to each other on Dropbox or Google Drive.
+
+* [Codeshare](https://codeshare.io) - this is an online tool that allow multiple people to be working on the same file
+* [Dropbox](https://www.dropbox.com)
 * Google Drive
-* Github
+* Github/Git
 
 ## Project Hosting
 
-* Locally
+* Locally - this is totally acceptable for a mini-hackathon
 * [Github Pages](https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/)
 
 ## Fonts
