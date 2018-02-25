@@ -2,8 +2,10 @@
 
 ## Mockups/Flow Charts
 
-* [Mockflow Free Version](https://mockflow.com)
-* [Draw.io, Google Drive Charts and Graphs](https://www.draw.io)
+You will probably want to draw rough wireframes/mockups before you begin writing any code. Here are some free tools you can use:
+
+* [Pencil](http://pencil.evolus.vn/Default.html) - this one is a desktop application and has lots of useful features for mockups
+* [Google Drawings](https://docs.google.com/drawings/) - this options will let you collaborate in real time with your team
 
 ## Photo Tools
 
