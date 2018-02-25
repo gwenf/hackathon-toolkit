@@ -19,19 +19,19 @@
 ## Project Hosting
 
 * Locally
-* Github
+* [Github Pages](https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/)
 
 ## Fonts
 
-* Google fonts
-* Font Awesome Icons
+* [Google fonts](https://fonts.google.com/)
+* [Font Awesome Icons](https://fontawesome.com/icons?d=gallery)
 
 ## Color Schemes
 
-* https://coolors.co/
-* http://colorhunt.co/
+* [Coolers](https://coolors.co/)
+* [ColorHunt](http://colorhunt.co/)
 
 ## Code Editors
 
-* Brackets
-* Atom
+* [Brackets](http://brackets.io/)
+* [Atom](https://atom.io/)
